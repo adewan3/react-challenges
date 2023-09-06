@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.inputBox{
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    left: 40%;
+}
